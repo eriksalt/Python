@@ -15,6 +15,6 @@ This is taken from <http://timmyreilly.azurewebsites.net/python-pip-virtualenv-i
 1. In cmd prompt type `deactivate`
 
 # Reactivating Environment
-1. In cmd prompt type `workon env-name`
+1. In cmd prompt type `workon <env-name>`
 
 
