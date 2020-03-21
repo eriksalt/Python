@@ -1,1 +1,19 @@
+This is taken from <http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/>
+
+# Main Steps
+1. Install Python
+1. Install Pip
+1. Install VirtualEnv
+1. Install VirtualEnvWrapper-win
+
+# Install Python
+1. Go to the Python Downloads page at: <https://www.python.org/downloads/windows/>
+1. Run the installer, making sure Install Pip and Add Python to Path are both selected.
+1. Check your PATH vairable to make sure it the Python path is added
+
+# Install Pip
+Pip is pre-installed, but you can make sure it is installed by opening a cmd prompt and typing:
+'py -3 -m ensurepip'
+
+# Install VirtualEnv
 
